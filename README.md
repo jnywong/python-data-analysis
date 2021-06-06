@@ -5,7 +5,7 @@
 
 An introduction to Python for non-programmers using inflammation data.
 
-Rendered version of the lesson: <https://bham-carpentries.github.io/python-fundamentals/>
+Rendered version of the lesson: <https://bham-carpentries.github.io/python-data-analysis/>
 
 ## Contributing
 [![Travis Build Status](https://travis-ci.org/swcarpentry/python-novice-inflammation.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/python-novice-inflammation)

@@ -30,6 +30,19 @@ matplotlib.pyplot.show()
 Blue pixels in this heat map represent low values, while yellow pixels represent high values.  As we
 can see, inflammation rises and falls over a 40-day period.
 
+> ## Displaying Plots in Jupyter Notebooks
+>
+> If you're using Jupyter, the plot above may not have appeared. In which case, you
+> need to tell Jupyter to show the plot within your notebook.
+> This can be easily done with the Python 'magic' function call:
+> ~~~
+> %matplotlib inline
+> ~~~
+> {: .language-python}
+>
+> Do this at the start of your notebook and everything afterwards should appear.
+{: .callout}
+
 Let's take a look at the average inflammation over time:
 
 ~~~
@@ -117,12 +130,6 @@ what to draw for each one,
 and that we want a tight layout.
 (If we leave out that call to `fig.tight_layout()`,
 the graphs will actually be squeezed together more closely.)
-
-> ## Back to Scripts
->
-> When you start producing more complicated plots like this, we recommend switching back
-> to writing scripts so you can store how to make your plots!
-{: .callout}
 
 > ## Scientists Dislike Typing
 >

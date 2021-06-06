@@ -53,6 +53,17 @@ about programming.
 > You will need to have worked through the material presented in the [Python Fundamentals][https://bham-carpentries.github.io/python-fundamentals/]
 > course. 
 >
+> In addition, you will need to obtain the lesson materials:
+> 
+> 1. Download [python-novice-inflammation-data.zip][zipfile1]
+>         and [python-novice-inflammation-code.zip][zipfile2].
+> 2. Create a folder called `swc-python` on your Desktop.
+> 3. Move downloaded files into this newly created folder.
+> 4. Unzip the files.
+> 
+> You should now see two new folders called `data` and `code` in your `swc-python` directory on your
+> Desktop.
+> 
 > The commands in this lesson pertain to **Python 3**.
 {: .prereq}
 

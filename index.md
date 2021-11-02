@@ -55,8 +55,8 @@ about programming.
 >
 > In addition, you will need to obtain the lesson materials:
 > 
-> 1. Download [python-novice-inflammation-data.zip][zipfile1]
->         and [python-novice-inflammation-code.zip][zipfile2].
+> 1. Download [the data](data/python-novice-inflammation-data.zip)
+>         and [the code](code/python-novice-inflammation-code.zip).
 > 2. Create a folder called `swc-python` on your Desktop.
 > 3. Move downloaded files into this newly created folder.
 > 4. Unzip the files.

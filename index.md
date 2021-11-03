@@ -50,7 +50,7 @@ about programming.
 
 > ## Prerequisites
 >
-> You will need to have worked through the material presented in the [Python Fundamentals][https://bham-carpentries.github.io/python-fundamentals/]
+> You will need to have worked through the material presented in the [Python Fundamentals](https://bham-carpentries.github.io/python-fundamentals/)
 > course. 
 >
 > In addition, you will need to obtain the lesson materials:
